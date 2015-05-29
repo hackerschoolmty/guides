@@ -19,8 +19,8 @@ Language used on Hacker School Mty Guides:
 Current guides
 --------------
 
-* Mentor's Pledge
-* Students Code of Conduct
+* [Mentor's Pledge](mentors-pledge.md)
+* [Students Code of Conduct](students-code-of-conduct.md)
 
 Contributing
 ------------
