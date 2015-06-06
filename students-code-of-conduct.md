@@ -12,3 +12,7 @@
 8. Communicate your ideas and opinions
 9. Don't take feedback personally. Everybody is learning.
 10. Explain why a piece of code exists, and be willing to receive feedback.
+
+#### 2015 Class of Hackers 
+
+* Name (@github-username)
