@@ -21,6 +21,8 @@ Current guides
 
 * [Mentor's Pledge](mentors-pledge.md)
 * [Students Code of Conduct](students-code-of-conduct.md)
+* [Program Outline](program.md)
+
 
 Contributing
 ------------
