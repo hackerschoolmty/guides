@@ -88,8 +88,9 @@ Before you continue reading, you might find the prework we put together to get y
 
 #### Week 7
 
-* EmberJS philosophy.
-* MVC Architecture pattern.
+* Single Page Applications
+* EmberJS philosophy
+* MVC Architecture pattern
 
 * Getting started:
 	* Hello ember 
