@@ -133,13 +133,14 @@ Before you continue reading, you might find the prework we put together to get y
 	* God objects
 	* Code duplication
 	* Monolithic controllers
+* Code Retreat
 
 [RailsPatterns]() by [Abraham Kuri](https://github.com/kurenn)
 
 #### Week 11
 
 * DevOps:
-	* Deployment
+	* Git Deployment
 	* Continous Integration
 	* Automation
 	* Docker & containers
@@ -150,13 +151,12 @@ Before you continue reading, you might find the prework we put together to get y
 #### Week 12
 
 * Product development:
-	* Agile
+	* Agile with Scrum
 	* Lean software development
-	* SCRUM
-	* Fast prototyping
 	* Wireframing
+	* Fast prototyping
 	* Backlog grooming
-	* Development tools
+	* Product Development tools
 
 [ProductDevelopment]() by [Juan Pablo](https://github.com/juanpabloe) & [Eduardo Lopez](https://github.com/edolopez)
 
