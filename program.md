@@ -17,9 +17,9 @@ Before you continue reading, you might find the prework we put together to get y
 
 #### Week 2
 
-* Rails philosophy.
-* MVC Architecture pattern.
-* RESTful Architecture.
+* Rails philosophy
+* MVC Architecture pattern
+* RESTful Architecture
 
 * Getting started:
 	* Basic commands
@@ -77,41 +77,36 @@ Before you continue reading, you might find the prework we put together to get y
 
 #### Week 6
 
-* Introduction to NPM
-* Introduction to Grunt
-* Javascript, beyond the basics
-* What is NodeJS?
-* Introduction to bower
-* Introduction to Broccoli
-
-[JS101]() by [Amed Rodriguez](https://github.com/amedrz)
-
-#### Week 7
-
 * Single Page Applications
 * EmberJS philosophy
-* MVC Architecture pattern
-
-* Getting started:
-	* Hello ember 
-	* Templates
-	* Routing
-	* Models
+* Ember 101
+	* Ember CLI
+	* Routes
 	* Controllers
-	* Adapters
-* Connecting with an API
+	* Templates
+	* Components
 
 [Ember101]() by [Benito Serna](https://github.com/bhserna) & [Amed Rodriguez](https://github.com/amedrz)
 
+#### Week 7
+
+* Getting Real with Ember
+	* Models (Ember Data)
+ 	* Adapters
+	* Query parameters
+	* Using addons
+	* Deploy / Build
+
+[Getting Real with Ember]() by [Amed Rodriguez](https://github.com/amedrz)
+
 #### Week 8
 
-* Ember CLI:
-	* Hello CLI
-	* Folder structure
-	* Basic commands
-* TDD with Ember
+* Ember and TDD
+	* Integrations tests
+	* Unit tests
+	* Testing not Ember stuff (the real thing!! :beers:)
 
-[Ember101]() by [Benito Serna](https://github.com/bhserna)
+[Ember and TDD]() by [Benito Serna](https://github.com/bhserna)
 
 #### Week 9
 
