@@ -108,7 +108,11 @@ Before you continue reading, you might find the prework we put together to get y
 
 [Ember and TDD]() by [Benito Serna](https://github.com/bhserna)
 
+***Midterm hackathon***
+
 #### Week 9
+
+**Start hacking with major Hacker School project**
 
 * Product development:
 	* Agile with Scrum
