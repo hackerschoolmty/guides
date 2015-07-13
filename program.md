@@ -108,7 +108,23 @@ Before you continue reading, you might find the prework we put together to get y
 
 [Ember and TDD]() by [Benito Serna](https://github.com/bhserna)
 
+***Midterm hackathon***
+
 #### Week 9
+
+**Start hacking with major Hacker School project**
+
+* Product development:
+	* Agile with Scrum
+	* Lean software development
+	* Wireframing
+	* Fast prototyping
+	* Backlog grooming
+	* Product Development tools
+
+[ProductDevelopment]() by [Juan Pablo](https://github.com/juanpabloe) & [Eduardo Lopez](https://github.com/edolopez)
+
+#### Week 10
 
 * Caching, Eager loading & counter caches
 * Multitenancy
@@ -118,7 +134,7 @@ Before you continue reading, you might find the prework we put together to get y
 
 [RailsBeyond]() by [Juan Carlos](https://github.com/zenbakiak)
 
-#### Week 10
+#### Week 11
 
 * Patterns in Rails
 	* MVC
@@ -137,7 +153,7 @@ Before you continue reading, you might find the prework we put together to get y
 
 [RailsPatterns]() by [Abraham Kuri](https://github.com/kurenn)
 
-#### Week 11
+#### Week 12
 
 * DevOps:
 	* Git Deployment
@@ -147,18 +163,6 @@ Before you continue reading, you might find the prework we put together to get y
 	* PaaS
 
 [DevOps]() by [Adrian Rangel](https://github.com/acrogenesis)
-
-#### Week 12
-
-* Product development:
-	* Agile with Scrum
-	* Lean software development
-	* Wireframing
-	* Fast prototyping
-	* Backlog grooming
-	* Product Development tools
-
-[ProductDevelopment]() by [Juan Pablo](https://github.com/juanpabloe) & [Eduardo Lopez](https://github.com/edolopez)
 
 #### Week 13
 
