@@ -136,6 +136,18 @@ Before you continue reading, you might find the prework we put together to get y
 
 #### Week 11
 
+* DevOps:
+	* Git Deployment
+	* Continous Integration
+	* Automation
+	* Docker & containers
+	* PaaS
+
+[DevOps]() by [Adrian Rangel](https://github.com/acrogenesis)
+
+#### Week 12
+
+
 * Patterns in Rails
 	* MVC
 	* Refactor
@@ -153,27 +165,10 @@ Before you continue reading, you might find the prework we put together to get y
 
 [RailsPatterns]() by [Abraham Kuri](https://github.com/kurenn)
 
-#### Week 12
-
-* DevOps:
-	* Git Deployment
-	* Continous Integration
-	* Automation
-	* Docker & containers
-	* PaaS
-
-[DevOps]() by [Adrian Rangel](https://github.com/acrogenesis)
-
 #### Week 13
 
-* Free for all:
+* Hack on projects:
 	* Lighting talks
-	* Hacking
-	* Product development 
-
-
-
-
-
-
-
+	* Community invites
+	* More code reviews
+	* Graduation day on august 22
