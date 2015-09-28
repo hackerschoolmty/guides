@@ -12,11 +12,21 @@ Before you continue reading, you might find the prework we put together to get y
 #### Week 1
 
 * Git & Github walkthrough
+ 	* Git commands(commit, push, pull, rebase)
+	* Git workflow
+	* Github Account creation
+	* Sync local repository with remote repository
 * Command line basics (bash & zsh)
+	* Create directories
+	* Change between directories
+	* Remove files or directories
 * Ruby 101
 * Test Driven Development Intro
-	* Red, green, refactor 
+	* Red, green, refactor
+	* Why TDD?
 * RSpec basics
+	* Describe blocks
+	* Context block 
 	* Expectations
 	* Matchers
 
@@ -28,14 +38,20 @@ Before you continue reading, you might find the prework we put together to get y
 * MVC Architecture pattern
 * RESTful Architecture
 * Getting started:
-	* Basic commands
+	* Basic commands(server, console, migrations)
 	* Rails app structure
 	* Planning
-	* Database modeling
+	* Models & ActiveRecord(finders, scopes, associations)
+	* Controllers(Strong parameters, action hooks)
+	* Views
+* Basic Routing
+* Debugging
+	* PRY
+	* Byebug
 * RSpec & Rails
 	* Factories	 
+	* FFaker
 	* Unit testing
-	* Integration testing
 
 [Rails101](https://github.com/hackerschoolmty/Rails101) by [Juan Carlos](https://github.com/zenbakiak)
 [TDD101](https://github.com/hackerschoolmty/TDD101) by [Ana Daniel](https://github.com/anadaniel)
@@ -49,33 +65,35 @@ Before you continue reading, you might find the prework we put together to get y
 	* Relationships structure (embedded objects) 
 	* Content negotiation
 * Versioning
-	* Parameter
-	* URL parameters
-	* Headers
+	* Using parameters
+	* Using URL parameters
+	* Using Headers
 * Endpoints testing
 * ActiveModelSerializers
 * Exploring API
 	* Postman	
 
-[API101]() by [Abraham Kuri](https://github.com/kurenn)
+[API101](https://github.com/hackerschoolmty/api101) by [Abraham Kuri](https://github.com/kurenn)
 
 
 #### Week 4
 
+* Advance Routing(namespace, subdomains)
 * User handling
 	* Profile creation
 	* User sessions
-* Emailing
+* Building endpoints
 * Best practices
+* Eager loading & Counter caches
 * Caching & pagination
 
-[API101]() by [Abraham Kuri](https://github.com/kurenn)
+[API101](https://github.com/hackerschoolmty/api101) by [Abraham Kuri](https://github.com/kurenn)
 
 #### Week 5
 
-* Caching, Eager loading & counter caches
+* i18n
 * Multitenancy
-* Background jobs
+* Background jobs with ActiveJob
 * Redis
 * Payment gateway implementation
 
@@ -98,15 +116,14 @@ Before you continue reading, you might find the prework we put together to get y
 	* Monolithic controllers
 * Code Retreat
 
-[RailsPatterns]() by [Abraham Kuri](https://github.com/kurenn)
+[RailsPatterns](https://github.com/hackerschoolmty/rails-patterns) by [Abraham Kuri](https://github.com/kurenn)
 
 
 #### Week 7
 
-* (TO-REVIEW) DevOps:
-	* Git Deployment
-	* Continous Integration
-	* Automation
+* DevOps:
+	* Git Deployment with Heroku
+	* Continous Integration with Codeship
 	* Docker & containers
 	* PaaS
 * Hack on projects:
@@ -114,7 +131,7 @@ Before you continue reading, you might find the prework we put together to get y
 	* Community invites
 	* More code reviews
 
-[DevOps]() by [Adrian Rangel](https://github.com/acrogenesis)
+[DevOps](https://github.com/hackerschoolmty/devops) by [Adrian Rangel](https://github.com/acrogenesis)
 
 ========================
 
