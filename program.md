@@ -53,9 +53,8 @@ Before you continue reading, you might find the prework we put together to get y
 	* FFaker
 	* Unit testing
 
-[Rails101](https://github.com/hackerschoolmty/Rails101) by [Juan Carlos](https://github.com/zenbakiak)
-[TDD101](https://github.com/hackerschoolmty/TDD101) by [Ana Daniel](https://github.com/anadaniel)
 
+[Rails101](https://github.com/hackerschoolmty/rbjs101) by [Adrian Cuadros](https://github.com/adriancuadros)
 
 #### Week 3
 
@@ -116,20 +115,19 @@ Before you continue reading, you might find the prework we put together to get y
 	* Monolithic controllers
 * Code Retreat
 
-[RailsPatterns](https://github.com/hackerschoolmty/rails-patterns) by [Abraham Kuri](https://github.com/kurenn)
+[RailsPatterns]() by [Benito Serna]()
 
 
 #### Week 7
 
-* DevOps:
+* Consuming your API:
+	* Building a wrapper using Ruby
+	* Build a webpage using Sinatra
+	 	* Mapping JSON objects
+		* Handling sessions
+		* User registration
 	* Git Deployment with Heroku
-	* Continous Integration with Codeship
-	* Docker & containers
-	* PaaS
-* Hack on projects:
-	* Lighting talks
-	* Community invites
-	* More code reviews
+
 
 [DevOps](https://github.com/hackerschoolmty/devops) by [Adrian Rangel](https://github.com/acrogenesis)
 
