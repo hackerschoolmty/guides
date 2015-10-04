@@ -1,17 +1,34 @@
 # Hacker School Monterrey
 
-This is an outline for the 13 week hacker school program to become the next generation developer.
+This is an outline for the 10 week hacker school program to become the next generation developer.
 
-## 13 Week Program Outline
+## 12 Week Program Outline
 
 Before you continue reading, you might find the prework we put together to get you started. Check it out [here](http://hackerschoolmty.github.io/prework/).
+
+### 7 week back-end dev
+
 
 #### Week 1
 
 * Git & Github walkthrough
-* Command line basics
+ 	* Git commands(commit, push, pull, rebase)
+	* Git workflow
+	* Github Account creation
+	* Sync local repository with remote repository
+* Command line basics (bash & zsh)
+	* Create directories
+	* Change between directories
+	* Remove files or directories
 * Ruby 101
-* Javascript intro
+* Test Driven Development Intro
+	* Red, green, refactor
+	* Why TDD?
+* RSpec basics
+	* Describe blocks
+	* Context block 
+	* Expectations
+	* Matchers
 
 [Ruby101](https://github.com/hackerschoolmty/rbjs101) by [Adrian Cuadros](https://github.com/adriancuadros)
 
@@ -20,32 +37,26 @@ Before you continue reading, you might find the prework we put together to get y
 * Rails philosophy
 * MVC Architecture pattern
 * RESTful Architecture
-
 * Getting started:
-	* Basic commands
+	* Basic commands(server, console, migrations)
 	* Rails app structure
 	* Planning
-	* Database modeling
-
-[Rails101](https://github.com/hackerschoolmty/Rails101) by [Juan Carlos](https://github.com/zenbakiak)
-
-
-#### Week 3
-
-* Test Driven Development Intro
-	* Red, green, refactor 
-* RSpec basics
-	* Expectations
-	* Matchers
+	* Models & ActiveRecord(finders, scopes, associations)
+	* Controllers(Strong parameters, action hooks)
+	* Views
+* Basic Routing
+* Debugging
+	* PRY
+	* Byebug
 * RSpec & Rails
 	* Factories	 
+	* FFaker
 	* Unit testing
-	* Integration testing
-
-[TDD101](https://github.com/hackerschoolmty/TDD101) by [Ana Daniel](https://github.com/anadaniel)
 
 
-#### Week 4
+[Rails101](https://github.com/hackerschoolmty/rbjs101) by [Adrian Cuadros](https://github.com/adriancuadros)
+
+#### Week 3
 
 * Introduction to API's
 	* Webservice structure
@@ -53,100 +64,41 @@ Before you continue reading, you might find the prework we put together to get y
 	* Relationships structure (embedded objects) 
 	* Content negotiation
 * Versioning
-	* Parameter
-	* URL parameters
-	* Headers
+	* Using parameters
+	* Using URL parameters
+	* Using Headers
 * Endpoints testing
 * ActiveModelSerializers
 * Exploring API
 	* Postman	
 
-[API101]() by [Abraham Kuri](https://github.com/kurenn)
+[API101](https://github.com/hackerschoolmty/api101) by [Abraham Kuri](https://github.com/kurenn)
 
 
-#### Week 5
+#### Week 4
 
+* Advance Routing(namespace, subdomains)
 * User handling
 	* Profile creation
 	* User sessions
-* Emailing
+* Building endpoints
 * Best practices
+* Eager loading & Counter caches
 * Caching & pagination
 
-[API101]() by [Abraham Kuri](https://github.com/kurenn)
+[API101](https://github.com/hackerschoolmty/api101) by [Abraham Kuri](https://github.com/kurenn)
 
-#### Week 6
+#### Week 5
 
-* Single Page Applications
-* EmberJS philosophy
-* Ember 101
-	* Ember CLI
-	* Routes
-	* Controllers
-	* Templates
-	* Components
-
-[Ember101]() by [Benito Serna](https://github.com/bhserna) & [Amed Rodriguez](https://github.com/amedrz)
-
-#### Week 7
-
-* Getting Real with Ember
-	* Models (Ember Data)
- 	* Adapters
-	* Query parameters
-	* Using addons
-	* Deploy / Build
-
-[Getting Real with Ember]() by [Amed Rodriguez](https://github.com/amedrz)
-
-#### Week 8
-
-* Ember and TDD
-	* Integrations tests
-	* Unit tests
-	* Testing not Ember stuff (the real thing!! :beers:)
-
-[Ember and TDD]() by [Benito Serna](https://github.com/bhserna)
-
-***Midterm hackathon***
-
-#### Week 9
-
-**Start hacking with major Hacker School project**
-
-* Product development:
-	* Agile with Scrum
-	* Lean software development
-	* Wireframing
-	* Fast prototyping
-	* Backlog grooming
-	* Product Development tools
-
-[ProductDevelopment]() by [Juan Pablo](https://github.com/juanpabloe) & [Eduardo Lopez](https://github.com/edolopez)
-
-#### Week 10
-
-* Caching, Eager loading & counter caches
+* i18n
 * Multitenancy
-* Background jobs
+* Background jobs with ActiveJob
 * Redis
 * Payment gateway implementation
 
 [RailsBeyond]() by [Juan Carlos](https://github.com/zenbakiak)
 
-#### Week 11
-
-* DevOps:
-	* Git Deployment
-	* Continous Integration
-	* Automation
-	* Docker & containers
-	* PaaS
-
-[DevOps]() by [Adrian Rangel](https://github.com/acrogenesis)
-
-#### Week 12
-
+#### Week 6
 
 * Patterns in Rails
 	* MVC
@@ -163,12 +115,84 @@ Before you continue reading, you might find the prework we put together to get y
 	* Monolithic controllers
 * Code Retreat
 
-[RailsPatterns]() by [Abraham Kuri](https://github.com/kurenn)
+[RailsPatterns]() by [Benito Serna]()
 
-#### Week 13
+
+#### Week 7
+
+* Consuming your API:
+	* Building a wrapper using Ruby
+	* Build a webpage using Sinatra
+	 	* Mapping JSON objects
+		* Handling sessions
+		* User registration
+	* Git Deployment with Heroku
+
+
+[DevOps](https://github.com/hackerschoolmty/devops) by [Adrian Rangel](https://github.com/acrogenesis)
+
+========================
+
+### 5 week front-end dev
+
+#### Week 1 > Basics
+
+* HTML
+* CSS
+* JavaScript
+* Precompilers (Sass & CoffeeScript)
+* Front-end package managers (Bower, NPM)
+* Task-runners (Grunt, Gulp)
+
+#### Week 2
+
+* Single Page Applications
+* EmberJS philosophy (TO-REVIEW METER REACT JS)
+* Ember 101
+	* Ember CLI
+	* Routes
+	* Controllers
+	* Templates
+	* Components
+
+[Ember101]() by [Benito Serna](https://github.com/bhserna) & [Amed Rodriguez](https://github.com/amedrz)
+
+#### Week 3
+
+* Getting Real with Ember
+	* Models (Ember Data)
+ 	* Adapters
+	* Query parameters
+	* Using addons
+	* Deploy / Build
+
+[Getting Real with Ember]() by [Amed Rodriguez](https://github.com/amedrz)
+
+#### Week 4
+
+* Ember and TDD
+	* Integrations tests
+	* Unit tests
+	* Testing not Ember stuff (the real thing!! :beers:)
+
+[Ember and TDD]() by [Benito Serna](https://github.com/bhserna)
+
+
+#### (TO-REVIEW) Week 5
+
+* Product development:
+	* Agile with Scrum 
+  * Lean software development 
+  * Wireframing
+	* Fast prototyping
+	* Backlog grooming
+	* Product Development tools
+
+[ProductDevelopment]() by [Juan Pablo](https://github.com/juanpabloe) & [Eduardo Lopez](https://github.com/edolopez)
+
+#### Week 6
 
 * Hack on projects:
 	* Lighting talks
 	* Community invites
 	* More code reviews
-	* Graduation day on august 22
