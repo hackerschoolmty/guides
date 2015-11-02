@@ -1,12 +1,12 @@
 # Hacker School Monterrey
 
-This is an outline for the 10 week hacker school program to become the next generation developer.
+This is an outline for the 6 week backend hacker school program to become the next generation developer.
 
-## 12 Week Program Outline
+## 6 Week Program Outline
 
 Before you continue reading, you might find the prework we put together to get you started. Check it out [here](http://hackerschoolmty.github.io/prework/).
 
-### 7 week back-end dev
+### BackEnd Developer
 
 
 #### Week 1
@@ -21,6 +21,31 @@ Before you continue reading, you might find the prework we put together to get y
 	* Change between directories
 	* Remove files or directories
 * Ruby 101
+	* DataTypes: Strings, FixNum, Boolean, Nil
+	* Variables & Comments
+	* DataStructures: Arrays & Hashes
+	* Conditionals (if, else, unless, conditional assignment)
+	* Loops & Iterators
+	* Methods (class & instances, optional arguments, named arguments, hash arguments, *splat)
+	* Classes (instance variables, method override, self, method visibility, inheritance)
+	* Exceptions
+	* Modules (include, extend, self.included)
+	* Blocks (yield, pass arguments)
+	* RubyGems
+
+
+[Ruby101](https://github.com/hackerschoolmty/rbjs101) by [Adrian Cuadros](https://github.com/adriancuadros)
+
+#### Week 2
+
+* Advanced Ruby
+	* Procs
+	* Lambdas
+	* Symbol to proc & symbol to block
+	* OpenStruct
+	* Metaprogramming (defined_method, send)
+	* Mising method
+	* Building a DSL
 * Test Driven Development Intro
 	* Red, green, refactor
 	* Why TDD?
@@ -32,7 +57,7 @@ Before you continue reading, you might find the prework we put together to get y
 
 [Ruby101](https://github.com/hackerschoolmty/rbjs101) by [Adrian Cuadros](https://github.com/adriancuadros)
 
-#### Week 2
+#### Week 3
 
 * Rails philosophy
 * MVC Architecture pattern
@@ -40,10 +65,9 @@ Before you continue reading, you might find the prework we put together to get y
 * Getting started:
 	* Basic commands(server, console, migrations)
 	* Rails app structure
-	* Planning
 	* Models & ActiveRecord(finders, scopes, associations)
 	* Controllers(Strong parameters, action hooks)
-	* Views
+	* Views (helpers)
 * Basic Routing
 * Debugging
 	* PRY
@@ -54,51 +78,22 @@ Before you continue reading, you might find the prework we put together to get y
 	* Unit testing
 
 
-[Rails101](https://github.com/hackerschoolmty/rbjs101) by [Adrian Cuadros](https://github.com/adriancuadros)
-
-#### Week 3
-
-* Introduction to API's
-	* Webservice structure
-	* Resources structure
-	* Relationships structure (embedded objects) 
-	* Content negotiation
-* Versioning
-	* Using parameters
-	* Using URL parameters
-	* Using Headers
-* Endpoints testing
-* ActiveModelSerializers
-* Exploring API
-	* Postman	
-
-[API101](https://github.com/hackerschoolmty/api101) by [Abraham Kuri](https://github.com/kurenn)
-
+[Rails101](https://github.com/hackerschoolmty/Rails101) by [Juan Carlos](https://github.com/zenbakiak)
 
 #### Week 4
 
-* Advance Routing(namespace, subdomains)
-* User handling
-	* Profile creation
-	* User sessions
-* Building endpoints
-* Best practices
-* Eager loading & Counter caches
-* Caching & pagination
-
-[API101](https://github.com/hackerschoolmty/api101) by [Abraham Kuri](https://github.com/kurenn)
-
-#### Week 5
-
-* i18n
+* User Handling (sessions, registrations)
+* Authorization (roles)
+* Polymorphic associations
+* Recursive associations
+* Advanced routing (namespaces, nested resources)
 * Multitenancy
+* i18n
 * Background jobs with ActiveJob
-* Redis
-* Payment gateway implementation
 
 [RailsBeyond]() by [Juan Carlos](https://github.com/zenbakiak)
 
-#### Week 6
+#### Week 5
 
 * Patterns in Rails
 	* MVC
@@ -115,84 +110,9 @@ Before you continue reading, you might find the prework we put together to get y
 	* Monolithic controllers
 * Code Retreat
 
-[RailsPatterns]() by [Benito Serna]()
+[RailsPatterns]() by [Abraham Kuri](https://github.com/hackerschoolmty/rails-patterns)
 
-
-#### Week 7
-
-* Consuming your API:
-	* Building a wrapper using Ruby
-	* Build a webpage using Sinatra
-	 	* Mapping JSON objects
-		* Handling sessions
-		* User registration
-	* Git Deployment with Heroku
-
-
-[DevOps](https://github.com/hackerschoolmty/devops) by [Adrian Rangel](https://github.com/acrogenesis)
-
-========================
-
-### 5 week front-end dev
-
-#### Week 1 > Basics
-
-* HTML
-* CSS
-* JavaScript
-* Precompilers (Sass & CoffeeScript)
-* Front-end package managers (Bower, NPM)
-* Task-runners (Grunt, Gulp)
-
-#### Week 2
-
-* Single Page Applications
-* EmberJS philosophy (TO-REVIEW METER REACT JS)
-* Ember 101
-	* Ember CLI
-	* Routes
-	* Controllers
-	* Templates
-	* Components
-
-[Ember101]() by [Benito Serna](https://github.com/bhserna) & [Amed Rodriguez](https://github.com/amedrz)
-
-#### Week 3
-
-* Getting Real with Ember
-	* Models (Ember Data)
- 	* Adapters
-	* Query parameters
-	* Using addons
-	* Deploy / Build
-
-[Getting Real with Ember]() by [Amed Rodriguez](https://github.com/amedrz)
-
-#### Week 4
-
-* Ember and TDD
-	* Integrations tests
-	* Unit tests
-	* Testing not Ember stuff (the real thing!! :beers:)
-
-[Ember and TDD]() by [Benito Serna](https://github.com/bhserna)
-
-
-#### (TO-REVIEW) Week 5
-
-* Product development:
-	* Agile with Scrum 
-  * Lean software development 
-  * Wireframing
-	* Fast prototyping
-	* Backlog grooming
-	* Product Development tools
-
-[ProductDevelopment]() by [Juan Pablo](https://github.com/juanpabloe) & [Eduardo Lopez](https://github.com/edolopez)
 
 #### Week 6
 
-* Hack on projects:
-	* Lighting talks
-	* Community invites
-	* More code reviews
+* Project Building
