@@ -1,14 +1,14 @@
 # Hacker School Monterrey
 
-## Mentor's Pledge
+## El compromiso del mentor
 
-1. Choose to code on almost every session, GO LIVE
-2. User real life examples
-3. After an explanation ask if everything was clear enough
-4. Keep the students intrigued, in order to motivate them
-5. Never avoid questions, answer them right away, unless is not relevant
-6. Be kind with the students
-7. Never lose patience
-8. Promote pair collaboration among students
-9. Be honest to answer "I don't know" to a question but always be willing to answer it next session
-10. Share new content every session, may be tech related.
+1. Codea todas las sesiones, GO LIVE
+2. Usa ejemplos de la vida real
+3. Siempre debes preguntar si todo quedó claro
+4. Alimenta la curiosidad de tus alumnos para mantenerlos motivados
+5. Responde todas las preguntas inmediatamente, a menos que no sean relevantes
+6. Sé amable con los estudiantes
+7. Nunca pierdas la paciencia
+8. Promueve la colaboración entre tus alumnos
+9. Si no conoces una respuesta, sé honesto y responde "No sé", pero siempre con la disposición de responderla la siguiente sesión
+10. Comparte contenido nuevo todas las sesiones
