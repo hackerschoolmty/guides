@@ -1,18 +1,18 @@
 # Hacker School Monterrey
 
-## Student's Code of Conduct
+## Código de conducta del estudiante
 
-1. Respect your classmates
-2. Participate actively on class
-3. Don't judge before taking a closer look
-4. Be kind
-5. Ask questions; don't make demands
-6. Avoid sarcasm
-7. Don't be a jerk. Embrace collaboration and feedback
-8. Communicate your ideas and opinions
-9. Don't take feedback personally. Everybody is learning.
-10. Explain why a piece of code exists, and be willing to receive feedback.
+1. Respeta a tus compañeros
+2. Participa activamente en clase
+3. No juzgues antes de analizar
+4. Sé amable
+5. Pide las cosas; no las exijas
+6. Evita el sarcasmo
+7. No seas agresivo. Aprovecha la colaboración y la retroalimentación. 
+8. Comunica tus ideas y opiniones
+9. No te tomes la retroalimentación como algo personal. Todos estamos aprendiendo.
+10. Explica tu código y mantente abierto a recibir retroalimentación.
 
-#### 2015 Class of Hackers 
+#### 2016 Class of Hackers 
 
-* Name (@github-username)
+* Nombre (@github-username)
