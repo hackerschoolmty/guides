@@ -1,48 +1,50 @@
-# Hacker School Monterrey Guides
+# Guía de la Hacker School Monterrey
 
-Hacker School MTY Guides is a set of guidelines to promote a good behavior among mentors and students, which include some of the most essential values for a happy coexistence.
+La Guía de la Hacker School Monterrey incluye los valores más esenciales para promover una convivencia sana entre mentores y estudiantes.
 
-Primary guidelines that everybody should be aware of:
+Nuestras normas básicas de convivencia son:
 
-* Be kind with others
-* Respect others opinions
-* Be responsible of the decisions you make
-* Don't violate any guideline
+* Sé amable con los demás
+* Respeta las opiniones de otros
+* Hazte responsable de las decisiones que tomes
+* No rompas las reglas
 
-Language used on Hacker School Mty Guides:
+Ten en cuenta que, dentro de las Guías de la Hacker School, el lenguaje es muy importante:
 
-* "Choose" means that there could be multiple options to choose from
-* "Use" is a positive declaration
-* "Never" there is no reason why you are breaking the statement
-* "Abstain" don't do it unless you have a good reason
+* "Elige" significa que habrá varias opciones entre las cuales escoger
+* "Usa" es una afirmación
+* "Nunca" no hay razón por la cual deberías romper esta regla
+* "Abstente" significa que no debes hacerlo a menos que haya una muy buena razón
 
-Current guides
+
+Guías vigentes
 --------------
 
-* [Mentor's Pledge](mentors-pledge.md)
-* [Students Code of Conduct](students-code-of-conduct.md)
-* [Program Outline](program.md)
+* [El compromiso del mentor](mentors-pledge.md)
+* [Código de conducta del estudiante](students-code-of-conduct.md)
+* [Programa](program.md)
 
 
-Contributing
+Contribuir
 ------------
 
-Everyone is freely to collaborate and submit pull request if needed.
+Todos pueden colaborar y pedir pulls si lo necesitan
 
+**si tienes acceso para hacer commits, deberías esperar al menos una semana para que el equipo te de retroalimentación**
 **if you have commit access, you should wait at least a week for the team to give feedback**.
 
 
-Credits
+Créditos
 -------
 
-Thank you, [contributors](https://github.com/hackerschoolmty/guides/graphs/contributors)!
+Gracias, [contributors](https://github.com/hackerschoolmty/guides/graphs/contributors)!
 
-![Hacker School MTY](https://avatars2.githubusercontent.com/u/11823082?v=3&s=200)
+![Hacker School Monterrey](https://avatars2.githubusercontent.com/u/11823082?v=3&s=200)
 
-Hacker School MTY Guides is maintained by the [Hacker School MTY team](http://hackerschool.mx/).
+La Guía Hacker School Monterrey Guides es mantenida por el [Hacker School MTY team](http://hackerschool.mx/).
 
 License
 -------
 
-Guides is © 2015 Hacker School Mty. It is distributed under the [Creative Commons
+Guías es © 2015 Hacker School Monterrey. Se distrubuye bajo la [Creative Commons
 Attribution License](http://creativecommons.org/licenses/by/3.0/).
