@@ -60,6 +60,7 @@ Before you continue reading, you should check the prework we put together to get
 	* Models & ActiveRecord(finders, scopes, associations)
 	* Controllers(Strong parameters, action hooks)
 	* Views (helpers)
+* User Handling (sessions, registrations)
 * Basic Routing
 * Debugging
 	* PRY
@@ -67,7 +68,6 @@ Before you continue reading, you should check the prework we put together to get
 
 #### Week 4
 
-* User Handling (sessions, registrations)
 * Authorization (roles)
 * Polymorphic associations
 * Recursive associations
@@ -75,6 +75,7 @@ Before you continue reading, you should check the prework we put together to get
 * i18n
 * Background jobs with ActiveJob
 * RSpec & Rails
+	* Guard
 	* Factories	 
 	* FFaker
 	* Unit testing
