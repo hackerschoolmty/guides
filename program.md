@@ -1,13 +1,10 @@
 # Hacker School Monterrey
 
-This is an outline for the 6 week backend hacker school program to become the next generation developer.
+This is an outline for the 7 week backend hacker school program to become the next generation developer.
 
-## 6 Week Program Outline
+## Backend program outline
 
-Before you continue reading, you might find the prework we put together to get you started. Check it out [here](http://hackerschoolmty.github.io/prework/).
-
-### BackEnd Developer
-
+Before you continue reading, you should check the prework we put together to get you started. Check it out [here](http://hackerschoolmty.github.io/prework/).
 
 #### Week 1
 
@@ -33,9 +30,6 @@ Before you continue reading, you might find the prework we put together to get y
 	* Blocks (yield, pass arguments)
 	* RubyGems
 
-
-[Ruby101](https://github.com/hackerschoolmty/rbjs101) by [Adrian Cuadros](https://github.com/adriancuadros)
-
 #### Week 2
 
 * Advanced Ruby
@@ -55,8 +49,6 @@ Before you continue reading, you might find the prework we put together to get y
 	* Expectations
 	* Matchers
 
-[Ruby101](https://github.com/hackerschoolmty/rbjs101) by [Adrian Cuadros](https://github.com/adriancuadros)
-
 #### Week 3
 
 * Rails philosophy
@@ -72,13 +64,6 @@ Before you continue reading, you might find the prework we put together to get y
 * Debugging
 	* PRY
 	* Byebug
-* RSpec & Rails
-	* Factories	 
-	* FFaker
-	* Unit testing
-
-
-[Rails101](https://github.com/hackerschoolmty/Rails101) by [Juan Carlos](https://github.com/zenbakiak)
 
 #### Week 4
 
@@ -87,13 +72,41 @@ Before you continue reading, you might find the prework we put together to get y
 * Polymorphic associations
 * Recursive associations
 * Advanced routing (namespaces, nested resources)
-* Multitenancy
 * i18n
 * Background jobs with ActiveJob
-
-[RailsBeyond]() by [Juan Carlos](https://github.com/zenbakiak)
+* RSpec & Rails
+	* Factories	 
+	* FFaker
+	* Unit testing
 
 #### Week 5
+
+* Introduction to API's
+	* Webservice structure
+	* Resources structure
+	* Relationships structure (embedded objects) 
+	* Content negotiation
+* Versioning
+	* Using parameters
+	* Using URL parameters
+	* Using Headers
+* Endpoints testing
+* ActiveModelSerializers
+* Exploring API
+	* Postman	
+
+#### Week 6
+
+* Advance Routing(namespace, subdomains)
+* User handling
+	* Profile creation
+	* User sessions
+* Building endpoints
+* Best practices
+* Eager loading & Counter caches
+* Caching & pagination
+
+#### Week 7
 
 * Patterns in Rails
 	* MVC
@@ -109,10 +122,3 @@ Before you continue reading, you might find the prework we put together to get y
 	* Code duplication
 	* Monolithic controllers
 * Code Retreat
-
-[RailsPatterns]() by [Abraham Kuri](https://github.com/hackerschoolmty/rails-patterns)
-
-
-#### Week 6
-
-* Project Building
