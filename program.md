@@ -1,6 +1,6 @@
 # Hacker School Monterrey
 
-A continuación se presenta el esquema para el programa de backend con duración de 4 semanas impartido en la Hacker School Monterrey.
+A continuación se presenta el esquema para el programa de backend con duración de 7 semanas impartido en la Hacker School Monterrey.
 
 ## Esquema del programa
 
