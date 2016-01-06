@@ -1,38 +1,38 @@
 # Hacker School Monterrey
 
-This is an outline for the 7 week backend hacker school program to become the next generation developer.
+A continuación se presenta el esquema para el programa de backend con duración de 4 semanas impartido en la Hacker School Monterrey.
 
-## Backend program outline
+## Esquema del programa
 
-Before you continue reading, you should check the prework we put together to get you started. Check it out [here](http://hackerschoolmty.github.io/prework/).
+Antes de continuar leyendo es recomendable revisar el 'prework', ya que contiene información sobre los temas a conocer previo a comenzar el programa. Lo puedes revisar [aqui](http://hackerschoolmty.github.io/prework/).
 
 #### Week 1
 
-* Git & Github walkthrough
- 	* Git commands(commit, push, pull, rebase)
-	* Git workflow
-	* Github Account creation
-	* Sync local repository with remote repository
-* Command line basics (bash & zsh)
-	* Create directories
-	* Change between directories
-	* Remove files or directories
+* Introducción a git & Github
+ 	* Comandos básicos(commit, push, pull, rebase)
+	* Flujo de trabajo con git
+	* Creación de cuenta en Github
+	* Sincronización de un repositorio local con uno remoto
+* Introducción a la línea de comandos (bash & zsh)
+	* Creación de directorios
+	* Cambio entre directorios
+	* Remover archivos y/o directorios
 * Ruby 101
-	* DataTypes: Strings, FixNum, Boolean, Nil
-	* Variables & Comments
-	* DataStructures: Arrays & Hashes
-	* Conditionals (if, else, unless, conditional assignment)
-	* Loops & Iterators
-	* Methods (class & instances, optional arguments, named arguments, hash arguments, *splat)
-	* Classes (instance variables, method override, self, method visibility, inheritance)
-	* Exceptions
-	* Modules (include, extend, self.included)
-	* Blocks (yield, pass arguments)
+	* Tipos de dato: Strings, FixNum, Boolean, Nil
+	* Variables y comentarios
+	* Estructuras de datos: Arrays & Hashes
+	* Condicionales (if, else, unless, conditional assignment)
+	* Ciclos e iteradores
+	* Métodos (class & instances, optional arguments, named arguments, hash arguments, *splat)
+	* Clases (instance variables, method override, self, method visibility, inheritance)
+	* Excepciones
+	* Modulos (include, extend, self.included)
+	* Bloques (yield, pass arguments)
 	* RubyGems
 
 #### Week 2
 
-* Advanced Ruby
+* Ruby avanzado
 	* Procs
 	* Lambdas
 	* Symbol to proc & symbol to block
@@ -40,10 +40,10 @@ Before you continue reading, you should check the prework we put together to get
 	* Metaprogramming (defined_method, send)
 	* Mising method
 	* Building a DSL
-* Test Driven Development Intro
+* Introducción a Test Driven Development
 	* Red, green, refactor
-	* Why TDD?
-* RSpec basics
+	* ¿Por que TDD?
+* Introducción a RSpec
 	* Describe blocks
 	* Context block 
 	* Expectations
@@ -51,29 +51,29 @@ Before you continue reading, you should check the prework we put together to get
 
 #### Week 3
 
-* Rails philosophy
-* MVC Architecture pattern
-* RESTful Architecture
-* Getting started:
-	* Basic commands(server, console, migrations)
-	* Rails app structure
-	* Models & ActiveRecord(finders, scopes, associations)
-	* Controllers(Strong parameters, action hooks)
-	* Views (helpers)
-* User Handling (sessions, registrations)
-* Basic Routing
+* Filosofía en Rails
+* MVC
+* Arquitectura tipo RESTful
+* Introducción a:
+	* Comandos básicos(server, console, migrations)
+	* Estructura de una aplicación de Rails
+	* Modelos & ActiveRecord (finders, scopes, associations)
+	* Controladores (Strong parameters, action hooks)
+	* Vistas (helpers)
+* Enrutamiento básico
+* Manejo de usuarios (sessions, registrations)
 * Debugging
 	* PRY
 	* Byebug
 
 #### Week 4
 
-* Authorization (roles)
-* Polymorphic associations
-* Recursive associations
-* Advanced routing (namespaces, nested resources)
+* Autorización (roles)
+* Asociaciones polimórficas
+* Asociaciones recursivas
+* Enrutamiento avanzado (namespaces, nested resources)
 * i18n
-* Background jobs with ActiveJob
+* Trabajos en cola con ActiveJob
 * RSpec & Rails
 	* Guard
 	* Factories	 
@@ -82,34 +82,33 @@ Before you continue reading, you should check the prework we put together to get
 
 #### Week 5
 
-* Introduction to API's
-	* Webservice structure
-	* Resources structure
-	* Relationships structure (embedded objects) 
-	* Content negotiation
-* Versioning
-	* Using parameters
-	* Using URL parameters
-	* Using Headers
-* Endpoints testing
+* Introducción a API's
+	* Estructura de un web service
+	* Estructura basada en recursos
+	* Estructura de relaciones (objectos embebidos) 
+	* Negociación de contenido
+* Versionamiento:
+	* Usando parámetros
+	* Usando parámetros en la URL
+	* Usando Headers
+* Probando los endpoints
 * ActiveModelSerializers
-* Exploring API
+* Explorando la API:
 	* Postman	
 
 #### Week 6
 
-* Advance Routing(namespace, subdomains)
-* User handling
-	* Profile creation
-	* User sessions
-* Building endpoints
-* Best practices
+* Administración de usuarios
+	* Creación de usuarios
+	* Manejo de sesiones
+* Construyendo endpoints
+* Mejores prácticas
 * Eager loading & Counter caches
-* Caching & pagination
+* Caching & paginación
 
 #### Week 7
 
-* Patterns in Rails
+* Patrones de diseño en Rails
 	* MVC
 	* Refactor
 	* Concerns
@@ -118,7 +117,7 @@ Before you continue reading, you should check the prework we put together to get
 	* Null Object pattern
 	* Fat models & skinny controllers
 	* Factory
-* Rails antipatterns
+* Antipatrones de diseño en Rails
 	* God objects
 	* Code duplication
 	* Monolithic controllers
