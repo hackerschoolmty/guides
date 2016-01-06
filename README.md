@@ -9,13 +9,6 @@ Nuestras normas básicas de convivencia son:
 * Hazte responsable de las decisiones que tomes
 * No rompas las reglas
 
-Ten en cuenta que, dentro de las Guías de la Hacker School, el lenguaje es muy importante:
-
-* "Elige" significa que habrá varias opciones entre las cuales escoger
-* "Usa" es una afirmación
-* "Nunca" no hay razón por la cual deberías romper esta regla
-* "Abstente" significa que no debes hacerlo a menos que haya una muy buena razón
-
 
 Guías vigentes
 --------------
@@ -28,9 +21,9 @@ Guías vigentes
 Contribuir
 ------------
 
-Todos pueden colaborar y pedir pulls si lo necesitan
+Todos pueden colaborar y generar pull requests de ser necesario.
 
-**si tienes acceso para hacer commits, deberías esperar al menos una semana para que el equipo te de retroalimentación**
+**Si tienes acceso para hacer commits, deberías esperar al menos una semana para que el equipo te de retroalimentación**
 **if you have commit access, you should wait at least a week for the team to give feedback**.
 
 
@@ -46,5 +39,5 @@ La Guía Hacker School Monterrey Guides es mantenida por el [Hacker School MTY t
 License
 -------
 
-Guías es © 2015 Hacker School Monterrey. Se distrubuye bajo la [Creative Commons
+Guías es © 2015 Hacker School Monterrey. Se distribuye bajo la [Creative Commons
 Attribution License](http://creativecommons.org/licenses/by/3.0/).
