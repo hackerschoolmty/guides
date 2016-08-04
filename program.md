@@ -29,6 +29,9 @@ Antes de continuar leyendo es recomendable revisar el 'prework', ya que contiene
 	* Modulos (include, extend, self.included)
 	* Bloques (yield, pass arguments)
 	* RubyGems
+* Construyendo un servidor web con rack
+	* Peticiones HTTP
+	* Arquitectura cliente/servidor
 
 #### Week 2
 
@@ -36,10 +39,7 @@ Antes de continuar leyendo es recomendable revisar el 'prework', ya que contiene
 	* Procs
 	* Lambdas
 	* Symbol to proc & symbol to block
-	* OpenStruct
-	* Metaprogramming (defined_method, send)
 	* Mising method
-	* Building a DSL
 * Introducción a Test Driven Development
 	* Red, green, refactor
 	* ¿Por que TDD?
@@ -59,21 +59,31 @@ Antes de continuar leyendo es recomendable revisar el 'prework', ya que contiene
 	* Estructura de una aplicación de Rails
 	* Modelos & ActiveRecord (finders, scopes, associations)
 	* Controladores (Strong parameters, action hooks)
-	* Vistas (helpers)
+	* Vistas
+		* Helpers mas utilizados
+		* Parciales
+		* Layouts
 * Enrutamiento básico
-* Manejo de usuarios (sessions, registrations)
+	* Recursos
+		* Miembros
+		* Colecciones
+	* Rutas definidas
+* Manejo de usuarios
+	* Sesiones
+	* Registro
+	* Recuperación de contraseña
+	* Agregar complejidad a una contraseña
 * Debugging
 	* PRY
-	* Byebug
 
 #### Week 4
 
-* Autorización (roles)
+* Autorización
 * Asociaciones polimórficas
 * Asociaciones recursivas
-* Enrutamiento avanzado (namespaces, nested resources)
-* i18n
 * Trabajos en cola con ActiveJob
+	* DelayedJob
+	* Sidekiq
 * RSpec & Rails
 	* Guard
 	* Factories	 
@@ -82,43 +92,29 @@ Antes de continuar leyendo es recomendable revisar el 'prework', ya que contiene
 
 #### Week 5
 
-* Introducción a API's
-	* Estructura de un web service
-	* Estructura basada en recursos
-	* Estructura de relaciones (objectos embebidos) 
-	* Negociación de contenido
-* Versionamiento:
-	* Usando parámetros
-	* Usando parámetros en la URL
-	* Usando Headers
-* Probando los endpoints
-* ActiveModelSerializers
-* Explorando la API:
-	* Postman	
+* Tecnicas de optimización
+	* Eager loading
+	* Counter cache
+	* Paginación
+* Manejo y creación de backoffice
+	* Enrutamiento avanzado (namespaces, nested resources)
 
 #### Week 6
 
-* Administración de usuarios
-	* Creación de usuarios
-	* Manejo de sesiones
-* Construyendo endpoints
-* Mejores prácticas
-* Eager loading & Counter caches
-* Caching & paginación
-
-#### Week 7
-
-* Patrones de diseño en Rails
-	* MVC
-	* Refactor
-	* Concerns
-	* Presenters
-	* Facade
-	* Null Object pattern
-	* Fat models & skinny controllers
-	* Factory
+* i18n
+* Calidad de codigo, principios y buenas practicas 
+	* Manejo de excepciones
+	* Manejo, uso y nombre de variables
+	* Manejo, uso y nombre de funciones
+	* Single Responsibility Principle
+	* Duck Typing
+	* Inheritance 
 * Antipatrones de diseño en Rails
 	* God objects
 	* Code duplication
 	* Monolithic controllers
-* Code Retreat
+
+
+#### Week 7
+
+* Code Retreat & Hack on projects
